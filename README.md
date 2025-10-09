@@ -36,6 +36,8 @@ Email: your-email@example.com · LinkedIn: linkedin.com/in/yourprofile
 > Currently learning: 4-layer PCB design, advanced embedded Linux build systems.
 -->
 
+![Mrugnil_GitHub](https://github.com/mrugnil/mrugnil/blob/main/assets/Mrugnil_GitHub_0_1.png)
+
 # Hey 👋 I'm Mrugnil
 
 💻 **Embedded Systems Engineer** | ⚡ **Performance Optimizer** | 🌍 **Global Deployments**
