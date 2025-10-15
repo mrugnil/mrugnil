@@ -42,7 +42,8 @@ Email: your-email@example.com · LinkedIn: linkedin.com/in/yourprofile
 
 💻 **Embedded Systems Engineer** | ⚡ **Performance Optimizer** | 🌍 **Global Deployments**
 
-> *I bring hardware to life with firmware, Linux, and real-time magic ✨*
+<!-- > *I bring hardware to life with firmware, Linux, and real-time magic ✨* -->
+> *⚡ Passionate about real-time system optimization, device communication, and bringing hardware to life*
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrugnil.mrugnil)
 [![GitHub followers](https://img.shields.io/github/followers/mrugnil?label=Followers\&style=social)](https://github.com/mrugnil)
@@ -180,7 +181,7 @@ Email: your-email@example.com · LinkedIn: linkedin.com/in/yourprofile
 
 ## 🌐 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mrugnil/)
 <!--[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
 -->
